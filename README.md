@@ -7,19 +7,8 @@ Para correr la función deben hacer lo siguiente:
 
 2) Para un ejemplo se puede utilizar una tabla con sol disguiente formato:
 
-Ejemplo de Tabla: 
-Name	     City	      Age
-Indiana	   Santiago	  31
-Ariam	     Santiago	  31
-Pedro	     Santiago	  30
-Camila	   Santiago	  26
-Ivan	     Santiago	  26
-Angel	     Santiago	  31
-Haka	     Santiago	   1
-Camila	   Bogota	    13
-Haka	     Santiago	   1
-Indiana	   Valencia	  20
-Camila	   Barcelona	13
+Ejemplo de Tabla:  
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQIUWDzZA1si8KQ3thiLhCXcdFzWm_rR2-6mWxMyfA3ejah1dlAKnq6NNwar2qfaoDa0lGMtJEZK67X/pubhtml
 
 3) Abrir en el menú "Herramientas" > "Editor de Secuencia de Comandos"
 
